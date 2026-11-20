@@ -15,7 +15,7 @@ layout: essay
 ---
 Football has been an importat part of the Universtiy of New Medxico's hisotry for many years. Today the Universty Stadium is known as the home to the New Mexico Lobos, where students, alimni and fans come together to support their team. however, football at UNM did not alwways look the way it does today. 
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+
 
 ## Main Story
 
