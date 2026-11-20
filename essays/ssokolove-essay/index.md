@@ -14,15 +14,14 @@ start:                                   # the year your story begins, shown on 
 layout: essay
 ---
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention   
 
 Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
 
 ## Main Story
 
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
+University Stadium, home of the University of New Mexico Lobos, represents an important part of the university’s athletic history. Since opening in 1960, it has hosted football games and brought together students, alumni, and local supporters. Its history shows how a sports facility can become part of a university’s identity through memorable games, improvements, and shared traditions. Before University Stadium opened, Lobo football had already occupied other locations. UNM’s athletics records identify University Field as the team’s home from 1892 through 1937 and Zimmerman Field from 1938 through 1959. These earlier fields were on the main campus, where academic buildings such as Ortega Hall, the Humanities Building, and Woodward Hall now stand. The move to University Stadium in 1960 marked a new chapter in the program’s history and changed where supporters gathered to watch the Lobos play.
 
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
 
 <!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
      image-path is just the filename: upload your images into this essay's folder,
