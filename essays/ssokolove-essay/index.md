@@ -37,9 +37,7 @@ Every image needs a caption, including this one. A caption should explain what t
 
 ## What Changed
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
-
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
+Before that, the team played at Zimmerman Field on Central Campus. Moving to a larger stadium on South Campus gave the Lobos more room for fans and opened up space for academic buildings on Central Campus. The stadium cost about $4 million to build, according to a City of Albuquerque report. The Lobos played their first game there on September 17, 1960, and beat the University of Mexico 77-6. Before the 2001 season, UNM spent $3.5 million to expand the north end and add more than 5,700 seats. In 2004, UNM received another $2 million in state funding for improvements such as restrooms, concession stands, and ticket booths. The school switched from natural grass to artificial turf in 2012 and installed a new video board in 2013 that cost about $1.5 million.In 2006, University Stadium hosted the first New Mexico Bowl, giving fans another reason to come to Albuquerque for a game. The stadium became a venue for postseason college football as well as a home for the Lobos.
 
 <!-- Carousel: use when you have three or more images that belong together but do not
      each need their own paragraph. Images are split on commas, captions on the | character.
